@@ -12,5 +12,5 @@ branches:
     - master
 cache:
   directories:
-    - /node_modules
-    - /bower_components
+    - node_modules
+    - bower_components
